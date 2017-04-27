@@ -5,4 +5,4 @@ sudo apt-get install -y git
 
 git clone https://github.com/BillyZac/dotfiles.git $HOME/dotfiles
 
-source $HOME/dotfiles/install.sh
+source $HOME/dotfiles/install
